@@ -5,8 +5,8 @@ This repository contains code for visualizing air quality monitoring data using 
 Before running the code, make sure you have the following installed:
 
 # Python (version 3.7 or higher)
-Pandas library
-Matplotlib library
+    - Pandas library
+    - Matplotlib library
 
 # Usage
 <ol>
