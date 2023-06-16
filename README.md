@@ -1,8 +1,4 @@
-# KNUST_AirQualityMonitor
-Python script for air quality data analysis
-
-
-# Air Quality Monitoring Data Visualization
+# Air Quality Monitoring & Data Visualization
 This repository contains code for visualizing air quality monitoring data using Python, Pandas, and Matplotlib. The code allows you to read data from CSV files, perform data wrangling and quality checks, and generate informative visualizations.
 
 # Prerequisites
